@@ -13,3 +13,7 @@ This is how you enter moves!
 <div style="align:center"><img src="https://github.com/Mishka2/tic_tac_toe/blob/master/UI/enter1.png" /></div>
 <br />
 <div style="align:center"><img src="https://github.com/Mishka2/tic_tac_toe/blob/master/UI/enter2.png" /></div>
+<br />
+This is when you don't win!
+<br />
+<div style="align:center"><img src="https://github.com/Mishka2/tic_tac_toe/blob/master/UI/lose.png" /></div>
